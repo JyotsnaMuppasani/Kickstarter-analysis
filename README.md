@@ -9,7 +9,7 @@ Plays were more successful in May-June and failed or less successful more in Nov
 ![Theater outcomes based on launch date](Resources/Theater_Outcomes_vs_Launch.png)
 [https://github.com/JyotsnaMuppasani/Kickstarter-analysis/blob/52e66b36816c531dfda4b265583e1794877a611f/Resources/Theater_Outcomes_vs_Launch.png]
 ### Analysis of outcomes based on goals:
-From the chart we can see that between 1000 to 19999 the percentage failed is less, if goals were set for $25,0000 the 100% success can be achieved. Also, the line is almost straight between 35000 to 39999 and 40000 to 44999. Goal between 1000 and 20000 are more successful and achievable based on chart. 
+•	From the chart we can see that see visual representation of percentage successful, or percentage failed based on goals. 
 ![Outcomes based on goals](Resources/Outcomes_vs_Goals.png)
 [https://github.com/JyotsnaMuppasani/Kickstarter-analysis/blob/52e66b36816c531dfda4b265583e1794877a611f/Resources/Outcomes_vs_Goals.png]
 ### Challenges or difficulties encountered.
@@ -29,9 +29,9 @@ From the chart we can see that between 1000 to 19999 the percentage failed is le
 
 •	From the outcomes based on goals chart we can conclude saying goals can be set for 20000 for having more success.
 ### Limitations:
-The drop in success from outcomes based on goals chart can be due to the correlation between months and countries or other factors which cannot be seen in the present chart. 
+Outcomes based on goals chart only gives visual presentation, it does not give clear picture to draw conclusions on what amount can be set as goal and the range of goals.
 ### Recommendations: 
-Tables and charts can be created to see how each subcategory is achieving its fundraising goals successfully in various countries and which months are best for each subcategory. Therefore, another chart and table can be made to include countries to be included along with the columns already present in outcomes based on goals sheet for viewing percentage of success.
+Statistical tools can be included to create better goals and better understanding for concluding data. Therefore, descriptive statistics can be included for knowing the mean, medial of goals vs pledged and to see range of the mean to be set through quartiles of goals vs pledged.
 
 
  
